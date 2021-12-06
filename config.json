@@ -1,0 +1,7 @@
+{
+    "username" : "admin",
+    "password" : "vertical",
+    "host" : "database-2.cood7ompdfrc.us-east-2.rds.amazonaws.com",
+    "port" : "3306",
+    "dbname" : "kucoin"
+  }
